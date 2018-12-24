@@ -1,6 +1,6 @@
 token=NTI2NTYwNTkzNjgwMDA3MTg4.DwHAYQ.6gVHzlU8HlJuhaChd3QExzD1c38
 owner=526560593680007188
 prefix = #
-game= Love Firends
+game= Love Firends <3
 stayinchannel=true
 songinstatus=true
