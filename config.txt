@@ -1,0 +1,6 @@
+token=NTI2MDIzMjIyODQwMzkzNzI4.Dv_KTQ.7PpC9EN_3U64fO_KyY8r8JzhGOg
+owner=496830889989242891
+prefix = ~
+game= ~help pharoh
+stayinchannel=true
+songinstatus=true
